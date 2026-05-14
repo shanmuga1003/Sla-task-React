@@ -1,0 +1,8 @@
+.normal {
+  background-color: lightgray;
+}
+
+.highlight {
+  background-color: blue;
+  color: white;
+}
